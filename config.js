@@ -39,12 +39,12 @@ module.exports = {
   nodes: [
     {
         name: "Server",
-        host: "lavalink.alfari.id",
-        port: 443,
-        password: "catfein",
+        host: "lavalink01.techbyte.host",
+        port: 2036,
+        password: "NAIGLAVA-dash.techbyte.host",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
-        secure: true
+        secure: false
     },
  ]
 }
